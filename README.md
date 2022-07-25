@@ -1,5 +1,7 @@
 # DockerGurobi
 
+[How to install docker](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-20-04)
+
 ## Build an image
 ```console
 $ git clone https://github.com/9tarz/DockerGurobi.git
